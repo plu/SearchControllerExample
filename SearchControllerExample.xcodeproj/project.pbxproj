@@ -50,10 +50,10 @@
 		052201C0231E36770056A351 /* SearchControllerExample */ = {
 			isa = PBXGroup;
 			children = (
+				052201CF231E36780056A351 /* Info.plist */,
 				052201C1231E36770056A351 /* AppDelegate.swift */,
 				052201CA231E36780056A351 /* Assets.xcassets */,
 				052201CC231E36780056A351 /* LaunchScreen.storyboard */,
-				052201CF231E36780056A351 /* Info.plist */,
 			);
 			path = SearchControllerExample;
 			sourceTree = "<group>";
